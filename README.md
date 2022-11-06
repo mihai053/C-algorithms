@@ -1,2 +1,2 @@
 # Algorithms
-Algorithms solved from ETTI faculty
+Algorithms solved in C language from ETTI faculty
